@@ -1,0 +1,105 @@
+.size-guide-container {
+  max-width: 700px;
+  margin: 40px auto;
+  text-align: center;
+  font-family: "Poppins", sans-serif;
+  color: #5a4635;
+  padding: 0 15px;
+}
+
+/* --- Headings --- */
+.title {
+  font-size: 30px;
+  font-weight: 600;
+  text-align: center;
+  font-weight: 600;
+  text-transform: uppercase;
+  margin: 70px 0 30px;
+}
+.subtitle {
+  font-size: 14px;
+  color: black;
+  margin-bottom: 40px;
+  text-align: center;
+  font-size: 15px;
+
+}
+
+/* --- Size Table --- */
+.size-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 20px 0;
+}
+
+.size-table th {
+  background-color: black;
+  padding: 10px;
+  font-weight: 600;
+  color: white;
+}
+
+.size-table td {
+  padding: 10px;
+  border-bottom: 1px solid #e0d6cc;
+  color: #4e3e2f;
+}
+
+.size-table tr:last-child td {
+  border-bottom: none;
+}
+
+/* --- Note --- */
+.note {
+  font-size: 15px;
+  color: black;
+  margin-top: 30px;
+}
+
+
+/* For tablets (below 768px) */
+@media (max-width: 768px) {
+  .title {
+    font-size: 24px;
+    margin: 50px 0 20px;
+  }
+
+  .subtitle {
+    font-size: 14px;
+  }
+
+  .size-table th,
+  .size-table td {
+    padding: 8px;
+    font-size: 14px;
+  }
+
+  .note {
+    font-size: 14px;
+  }
+}
+
+/* For mobile (below 480px) */
+@media (max-width: 480px) {
+  .title {
+    font-size: 20px;
+    margin: 40px 0 15px;
+  }
+
+  .subtitle {
+    font-size: 13px;
+  }
+
+  .size-table {
+    font-size: 13px;
+  }
+
+  .size-table th,
+  .size-table td {
+    padding: 6px;
+  }
+
+  .note {
+    font-size: 13px;
+  }
+}
