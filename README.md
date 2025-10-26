@@ -1,16 +1,45 @@
-# React + Vite
+# 👗 Chiacrt
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Chiacrt is my **first React + Vite project**, a modern **clothing web application** built using **React** and **CSS**.  
+It focuses on showcasing stylish outfits with a simple and elegant front-end design.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🌟 Features
+- 🛍️ Stylish clothing collection display  
+- 💻 Built with React and Vite for fast performance  
+- 🎨 Custom CSS for layout and styling  
+- 📱 Responsive and clean user interface  
+- ⚡ Lightweight and fast front-end only project  
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🛠️ Technologies Used
+- **React** – Frontend framework  
+- **Vite** – Build tool for faster development  
+- **CSS** – Styling and layout  
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Getting Started
+
+### 1️⃣ Clone the repository
+```bash
+git clone https://github.com/yourusername/chiacrt.git
+
+
+
+💬 About the Developer
+
+👩‍💻 Developer: Mansha T R
+🎓 Department: Computer Science and Engineering
+🏫 College: Velammal College of Engineering and Technology, Madurai
+
+I am a passionate CSE student who loves exploring web technologies and creating useful digital experiences.
+Through projects like Chiacrt, I aim to contribute socially by building modern, user-friendly, and accessible web applications that make a difference.
+
+🔗 Connect with Me
+
+💼 LinkedIn:https://www.linkedin.com/in/manshatr/
+
+🧑‍💻 GitHub: https://github.com/Mansha1105
