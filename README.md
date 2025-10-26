@@ -25,7 +25,7 @@ It focuses on showcasing stylish outfits with a simple and elegant front-end des
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/yourusername/chiacrt.git
+git clone https://github.com/Mansha1105/chicart.git
 
 
 
